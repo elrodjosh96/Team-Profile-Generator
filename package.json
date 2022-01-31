@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Build team profiles in the command line",
+  "main": "lib/App",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elrodjosh96/Team-Profile-Generator"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elrodjosh96/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/elrodjosh96/Team-Profile-Generator#readme",
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
